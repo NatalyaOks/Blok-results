@@ -1,0 +1,15 @@
+C:\Users\natev\Desktop\Рабочий стол\BlockResults\Specialization\bin\Debug\net6.0\Specialization.exe
+C:\Users\natev\Desktop\Рабочий стол\BlockResults\Specialization\bin\Debug\net6.0\Specialization.deps.json
+C:\Users\natev\Desktop\Рабочий стол\BlockResults\Specialization\bin\Debug\net6.0\Specialization.runtimeconfig.json
+C:\Users\natev\Desktop\Рабочий стол\BlockResults\Specialization\bin\Debug\net6.0\Specialization.dll
+C:\Users\natev\Desktop\Рабочий стол\BlockResults\Specialization\bin\Debug\net6.0\Specialization.pdb
+C:\Users\natev\Desktop\Рабочий стол\BlockResults\Specialization\obj\Debug\net6.0\Specialization.csproj.AssemblyReference.cache
+C:\Users\natev\Desktop\Рабочий стол\BlockResults\Specialization\obj\Debug\net6.0\Specialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natev\Desktop\Рабочий стол\BlockResults\Specialization\obj\Debug\net6.0\Specialization.AssemblyInfoInputs.cache
+C:\Users\natev\Desktop\Рабочий стол\BlockResults\Specialization\obj\Debug\net6.0\Specialization.AssemblyInfo.cs
+C:\Users\natev\Desktop\Рабочий стол\BlockResults\Specialization\obj\Debug\net6.0\Specialization.csproj.CoreCompileInputs.cache
+C:\Users\natev\Desktop\Рабочий стол\BlockResults\Specialization\obj\Debug\net6.0\Specialization.dll
+C:\Users\natev\Desktop\Рабочий стол\BlockResults\Specialization\obj\Debug\net6.0\refint\Specialization.dll
+C:\Users\natev\Desktop\Рабочий стол\BlockResults\Specialization\obj\Debug\net6.0\Specialization.pdb
+C:\Users\natev\Desktop\Рабочий стол\BlockResults\Specialization\obj\Debug\net6.0\Specialization.genruntimeconfig.cache
+C:\Users\natev\Desktop\Рабочий стол\BlockResults\Specialization\obj\Debug\net6.0\ref\Specialization.dll
